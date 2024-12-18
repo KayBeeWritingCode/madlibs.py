@@ -1,0 +1,9 @@
+noun = input("Noun: ")
+adj1 = input("Adjective: ")
+verb1 = input("Verb: ")
+verb2 = input("Verb: ")
+verb3 = input("Verb: ")
+adj2 = input("Adjective: ")
+verb4 = input("Verb: ")
+madlib=f"There once was a {noun1} who was {adj1} and very good at {verb1}. When he {verb2} all of the girls would {verb3}. He viewed the girls as very {adj2}, so whenver they came near him he {verb4}."
+print(madlib)
